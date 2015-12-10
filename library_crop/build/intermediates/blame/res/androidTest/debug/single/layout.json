@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nick/GitHub/crop/crop/build/intermediates/res/merged/androidTest/debug/layout/cropimage.xml",
+        "source": "/Users/nick/GitHub/crop/crop/build/intermediates/bundles/debug/res/layout/cropimage.xml"
+    },
+    {
+        "merged": "/Users/nick/GitHub/crop/library_crop/build/intermediates/res/merged/androidTest/debug/layout/cropimage.xml",
+        "source": "/Users/nick/GitHub/crop/library_crop/build/intermediates/bundles/debug/res/layout/cropimage.xml"
+    }
+]
